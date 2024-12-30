@@ -1,0 +1,39 @@
+#homePage {
+  height: calc(100vh - 56px);
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(https://i.pinimg.com/736x/99/82/98/998298ce7a3eaeb1fbc33b4b8062618e.jpg);
+  background-size: cover;
+}
+
+.aboutImg {
+  height: 500px;
+  width: 300px;
+}
+.achievementIcons {
+  font-size: 50px;
+  color: yellow;
+}
+.starIcon {
+  font-size: 50px;
+  color: blue;
+}
+.crownIcon {
+  font-size: 50px;
+  color: green;
+}
+
+.galleryImg {
+  height: 500px;
+  object-fit: cover;
+  width: 100%;
+}
+.footerIcon {
+  color: red;
+}
+.contactBackground {
+  background: #333;
+}
