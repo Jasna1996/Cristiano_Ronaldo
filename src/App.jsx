@@ -25,9 +25,8 @@ function App() {
       <div id="contact" className="mx-0">
         <Contact />
       </div>
-      <div id="footer">
-        <Footer />
-      </div>
+      <Footer />
+
     </>
   );
 }
